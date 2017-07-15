@@ -1,0 +1,50 @@
+{
+    "name": "angularjs-seed",
+    "description": "Project seed for AngularJS Developers",
+    "main": "",
+    "authors": [
+        "Alejandro Sevillano Moreno"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "AngularJS",
+        "TypeScript",
+        "Seed"
+    ],
+    "homepage": "http://alejandrosevillano.com",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "index.js",
+        "main.js",
+        "src",
+        "demo",
+        "**/*.json",
+        "**/*.md"
+    ],
+    "dependencies": {
+        "angular": "angularjs#^1.6.5",
+        "jquery": "^3.2.1",
+        "angular-animate": "^1.6.5"
+    },
+    "devDependencies": {
+        "angular-animate": "^1.6.5",
+        "angular-mocks": "^1.6.5",
+        "angular-sanitize": "^1.6.5",
+        "angular-cookies": "^1.6.5",
+        "angular-resource": "^1.6.5",
+        "angular-route": "^1.6.5",
+        "angular-touch": "^1.6.5",
+        "angular-scenario": "^1.6.5",
+        "angular-loader": "^1.6.5",
+        "angular-locale": "^0.1.11",
+        "angular-bootstrap": "^2.5.0"
+    },
+    "resolutions": {
+        "angular": "1.6.5"
+    }
+}
